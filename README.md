@@ -9,5 +9,5 @@ I'm a front end web developer I have skills in html5, css3, JavaScript, bootstra
 - 🤔 I’m looking for help with vue.js
 - 💬 Ask me about anythings you like ^_^
 - 📫 How to reach me: [Instagram] (https://www.instagram.com/fate_can_be_anything/?hl=en)
-- ⚡ Fun fact: Ilike to play online games more like strategy game (and I hate pubg)
+- ⚡ Fun fact: Ilike to play online games more like strategy game (I hate pubg)
 
