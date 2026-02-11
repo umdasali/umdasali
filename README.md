@@ -1,52 +1,61 @@
-# Hi there, I'm Ali Sher Ali 👋 🚀
+<div align="center">
+  <h1>Hi, I'm Md Ali Sher Ali 👋</h1>
+  <p><strong>Frontend Developer | Editor-in-Chief @ Kiriverse | Utility Architect @ Ziriverse</strong></p>
 
-I am a passionate **Frontend Web Developer** and **Tech Enthusiast** dedicated to building responsive, user-centric web applications and creating engaging digital ecosystems. I love bridging the gap between design and technology to deliver high-quality web experiences.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Libraries:** React.js, Bootstrap, Materialize CSS
-- **Backend & Tools:** Firebase, Git, GitHub
-- **Design:** Photoshop, UI/UX Design Principles
-- **Current Focus:** Deepening my expertise in **React.js** and exploring **Vue.js**.
+  <p>
+    <a href="https://www.linkedin.com/in/md-ali-sher-ali-265153284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/md_ali_sher_ali/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://kiriverse.com"><img src="https://img.shields.io/badge/Kiriverse-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Kiriverse" /></a>
+    <a href="https://ziriverse.com"><img src="https://img.shields.io/badge/Ziriverse-48bf08?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ziriverse" /></a>
+  </p>
+</div>
 
 ---
 
-### 🌐 Featured Projects
+### 🚀 About Me
+I am a dedicated **Frontend Developer** specializing in **Next.js** and **Custom CSS**. As the founder and Editor-in-Chief of **Kiriverse**, I explore the synergy between technology, gaming, and 2D animation. I am also the creator of **Ziriverse**, a utility hub designed to streamline the workflow for fellow developers and designers.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Styling** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **(Pure CSS Specialist)** |
+| **Backend/Tools** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-Growth-success) |
+
+---
+
+### 🌐 Digital Ecosystems
 
 #### 🎮 [Kiriverse](https://kiriverse.com)
-**Kiriverse** is a specialized platform catering to the gaming and anime community. It serves as a hub for:
-- **Gaming News & Updates:** Latest trends in the world of video games and gacha titles.
-- **Anime Culture:** Curated content for anime fans, bridging the gap between gaming and animation.
-- **Community Hub:** Providing a space for enthusiasts to stay informed about upcoming releases and industry shifts.
+*The intersection of Gaming, Tech, and Anime.*
+- **Focus:** High-fidelity gaming news, AI’s impact on 2D animation, and gacha industry trends.
+- **Tech:** Optimized for extreme performance and SEO-driven organic growth.
 
-#### 🌌 [Ziriverse](https://ziriverse.com)
-**Ziriverse** is a digital ecosystem designed to explore the intersection of technology and entertainment. 
-- Focused on delivering high-quality web content.
-- Built with a vision to provide a modern, interactive user interface for tech-savvy audiences.
-- Aimed at creating a seamless browsing experience for discovering new digital trends.
+#### 🛠️ [Ziriverse](https://ziriverse.com)
+*The Developer's Utility Hub.*
+- **Purpose:** A suite of web-based tools including meta card validators, image format converters, and custom color schema generators.
+- **Mission:** Providing simple, accessible, and fast utilities for modern web creators.
 
 ---
 
-### 🔭 Currently Working On
-- **Ananta/Project Mugen Coverage:** Creating deep-dive content and technical insights into upcoming open-world anime titles.
-- **Portfolio Enhancement:** Integrating advanced React components into my personal projects.
+### 📊 GitHub Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=umdasali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=umdasali&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-### ⚡ Fun Facts
-- 🕹️ I'm a big fan of **strategy games**—I prefer games that require thinking and planning over fast-paced shooters.
-- 🎨 I handle the majority of my code myself, but I also have an eye for Photoshop and visual design.
-- 🚀 I believe that video games are the highest form of art we have today.
+### ⚡ Random Facts
+- 🎨 I advocate for **Custom CSS** over frameworks like Tailwind to ensure unique, lightweight designs.
+- 🕹️ I keep a close eye on the indie game dev scene and the evolution of cross-platform titles.
+- 🇮🇳 Building from India for a global audience of gamers and developers.
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:** [MD Ali Sher Ali](https://www.linkedin.com/in/md-ali-sher-ali-265153284/)
-- **Instagram:** [@md_ali_sher_ali]([https://www.instagram.com/code_over_write/](https://www.instagram.com/md_ali_sher_ali/))
-
----
-
-⭐️ From [umdasali](https://github.com/umdasali)
+<div align="center">
+  <sub>Managed by Md Ali Sher Ali | 🚀 Coding the future of entertainment</sub>
+</div>
